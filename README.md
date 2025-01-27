@@ -103,7 +103,9 @@ The `Customer_Data.csv` file includes:
 | **Friend**                     | 0.0853               |
 | **Other**                      | 0.1409               |
 
-As we can see, the correlation of CLV is highest with the region groups: English-Speaking Countries, Western Europe, and Other Countries. Interestingly, CLV is highly negatively correlated with countries from the rest of the world (**-0.9075**). This is likely because these countries include developing nations with lower incomes, and their students tend to seek cheaper or free data science education alternatives.
+- As we can see, the correlation of CLV is highest with the region groups: English-Speaking Countries, Western Europe, and Other Countries.
+
+- Interestingly, CLV is highly negatively correlated with countries from the rest of the world (**-0.9075**). This is likely because these countries include developing nations with lower incomes, and their students tend to seek cheaper or free data science education alternatives.
 
 
 ### 3. Bar Plots of Minutes Watched & CLV by Cluster
