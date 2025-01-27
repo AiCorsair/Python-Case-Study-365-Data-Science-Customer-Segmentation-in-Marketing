@@ -9,7 +9,16 @@
 - [IV. Hierarchical & K-Means Clustering](#IV.-Hierarchical-&-K-Means-Clustering)
 - [V. K-Means Model Assessment](#V.-K-Means-Model-Assessment)
 - [VI. Key Visualizations & Tables](#VI.-Key-Visualizations-&-Tables)
-- [VII. ](#VII.-)
+  - [1. Hierarchical Clustering & K-Means Elbow Method](#1.-Hierarchical-Clustering-&-K-Means-Elbow-Method)
+  - [2. Correlation of CLV with Regions & Channels](#2.-Correlation-of-CLV-with-Regions-&-Channels)
+  - [3. Bar Plots of Minutes Watched & CLV by Cluster](#3.-Bar-Plots-of-Minutes-Watched-&-CLV-by-Cluster)
+- [VII. Marketing Strategy Recommendations](#VII.-Marketing-Strategy-Recommendations)
+  - [1. Facebook Campaigns](#1.-Facebook-Campaigns)
+  - [2. YouTube Campaigns](#2.-YouTube-Campaigns)
+  - [3. Google Campaigns](#3.-Google-Campaigns)
+  - [4. LinkedIn Content Strategy](#4.-LinkedIn-Content-Strategy)
+  - [5. Referral Program Enhancement](#5.-Referral-Program-Enhancement)
+  - [6. Alternative Channels Strategy](#6.-Alternative-Channels-Strategy)
 
 
 ## I. Introduction
@@ -67,4 +76,36 @@ The `Customer_Data.csv` file includes:
 
 ## VI. Key Visualizations & Tables
 
-to be continued..
+### 1. Hierarchical Clustering & K-Means Elbow Method
+
+![Dendrogram   Elbow](https://github.com/user-attachments/assets/fab6ec7f-2426-4fbe-86bd-71a9172f3f3f)
+
+- The hierarchical clustering results identified `8` distinct clusters, providing a recommended cluster count based on the data.
+
+- The K-means Elbow Method suggested `7` clusters, differing from the `8` clusters found through hierarchical clustering.
+
+- As a result, we chose the hierarchical clustering results and performed K-means clustering with `8` clusters.
+
+
+### 2. Correlation of CLV with Regions & Channels
+
+| Variable                       | Correlation with CLV |
+|--------------------------------|----------------------|
+| **English-Speaking Countries** | 0.7912               |
+| **Western Europe**             | 0.6179               |
+| **Other Countries**            | -0.9075              |
+| **Google**                     | 0.0881               |
+| **Facebook**                   | -0.2462              |
+| **YouTube**                    | 0.1832               |
+| **LinkedIn**                   | -0.2121              |
+| **X**                          | 0.1832               |
+| **Instagram**                  | 0.1832               |
+| **Friend**                     | 0.0853               |
+| **Other**                      | 0.1409               |
+
+As we can see, the correlation of CLV is highest with the region groups: English-Speaking Countries, Western Europe, and Other Countries. Interestingly, CLV is highly negatively correlated with countries from the rest of the world (**-0.9075**). This is likely because these countries include developing nations with lower incomes, and their students tend to seek cheaper or free data science education alternatives.
+
+
+### 3. Bar Plots of Minutes Watched & CLV by Cluster
+
+
