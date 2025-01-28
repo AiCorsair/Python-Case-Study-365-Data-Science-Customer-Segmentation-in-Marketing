@@ -159,3 +159,10 @@ After identifying the customer segments, we can now discuss the results with the
 
 ### 4. LinkedIn Content Strategy
 
+- For LinkedIn users, especially from English-speaking countries, we can tailor content focusing on professional development and educational growth for both career switchers and students. Making special offers and addressing major pain points can attract new customers and boost spending.
+
+- It's important to note that most 365 Data Science students from LinkedIn are not from Western Europe. This presents an opportunity to explore how targeting Western Europeans could impact engagement and CLV.
+
+
+### 5. Referral Program Enhancement
+
