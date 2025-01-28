@@ -110,4 +110,31 @@ The `Customer_Data.csv` file includes:
 
 ### 3. Bar Plots of Minutes Watched & CLV by Cluster
 
+![Bar Plots](https://github.com/user-attachments/assets/c81a94eb-7420-4e3b-8165-fa286fa38a8d)
+
+The number of minutes watched ranges from `1,165.42` to `2,767.64` (median is `1,816.31` mins), while the customer lifetime value ranges from `95.79` to `144.03` (median is `122.17`).
+
+- **Cluster 0 (7.98%):** Students from Facebook, mainly from the rest of the world, have the highest number of minutes watched and below average CLV.
+
+- **Cluster 1 (37.58%):** The largest cluster, with students from mixed regions, mainly from YouTube, has average minutes watched and CLV.
+
+- **Cluster 2 (4.62%):** The smallest cluster, with students who joined through friends, mainly from English-speaking countries and Western Europe, has the highest CLV and above-average minutes watched.
+
+- **Cluster 3 (4.93%):** Students from English-speaking countries (US, Canada, UK, Australia) and LinkedIn have the lowest minutes watched and average CLV.
+
+- **Cluster 4 (17.5%):** Students from mixed regions who discovered the platform via Google have average minutes watched and CLV.
+
+- **Cluster 5 (7.85%):** Students referred by friends, from the rest of the world, have the lowest CLV and below-average minutes watched.
+
+- **Cluster 6 (12.02%):** Students mainly from the rest of the world, who joined via LinkedIn, have below-average minutes watched and CLV.
+
+- **Cluster 7 (7.51%):** Students from mixed regions who joined through other channels have above-average minutes watched and average CLV.
+
+
+## VII. Marketing Strategy Recommendations
+
+After identifying the customer segments, we can now discuss the results with the marketing team to implement targeted strategies. It’s noteworthy that 365 Data Science has equal spending budgets across the three region groups.
+
+
+### 1. Facebook Campaigns
 
