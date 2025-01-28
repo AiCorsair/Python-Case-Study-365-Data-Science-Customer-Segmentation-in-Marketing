@@ -9,7 +9,7 @@
 - [IV. Hierarchical & K-Means Clustering](#IV.-Hierarchical-&-K-Means-Clustering)
 - [V. K-Means Model Assessment](#V.-K-Means-Model-Assessment)
 - [VI. Key Visualizations & Tables](#VI.-Key-Visualizations-&-Tables)
-  - [1. Hierarchical Clustering & K-Means Elbow Method](#1.-Hierarchical-Clustering-&-K-Means-Elbow-Method)
+  - [1. Hierarchical Dendrogram & K-Means Elbow Method](#1.-Hierarchical-Dendrogram-&-K-Means-Elbow-Method)
   - [2. Correlation of CLV with Regions & Channels](#2.-Correlation-of-CLV-with-Regions-&-Channels)
   - [3. Bar Plots of Minutes Watched & CLV by Cluster](#3.-Bar-Plots-of-Minutes-Watched-&-CLV-by-Cluster)
 - [VII. Marketing Strategy Recommendations](#VII.-Marketing-Strategy-Recommendations)
@@ -76,7 +76,7 @@ The `Customer_Data.csv` file includes:
 
 ## VI. Key Visualizations & Tables
 
-### 1. Hierarchical Clustering & K-Means Elbow Method
+### 1. Hierarchical Dendrogram & K-Means Elbow Method
 
 ![Dendrogram   Elbow](https://github.com/user-attachments/assets/fab6ec7f-2426-4fbe-86bd-71a9172f3f3f)
 
