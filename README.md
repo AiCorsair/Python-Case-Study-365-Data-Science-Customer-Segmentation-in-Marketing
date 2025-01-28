@@ -166,3 +166,15 @@ After identifying the customer segments, we can now discuss the results with the
 
 ### 5. Referral Program Enhancement
 
+- We recommend enhancing the referral program by offering discounts or bonuses to both referrers and new students. Highlighting successful referral stories can motivate others to participate, creating a viral effect and boosting overall engagement and spending.
+
+- Interestingly, students referred by friends from the rest of the world have the lowest CLV and below-average minutes watched. Therefore, focusing more on English-speaking countries and Western Europe, where referral success and CLV are higher, would be more effective.
+
+
+### 6. Alternative Channels Strategy
+
+- We can target audiences from alternative channels with professional development and educational growth content, addressing common pain points, and identifying the posts that generate the most engagement.
+
+- Once we’ve pinpointed effective posts, we can create personalized offers and discounts to attract new customers, tapping into new opportunities and engaging students on less common platforms.
+
+- Since students from the rest of the world have lower CLV, shifting focus to higher-value segments and investing less in regions with lower ROI would be more effective.
