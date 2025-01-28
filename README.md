@@ -138,3 +138,24 @@ After identifying the customer segments, we can now discuss the results with the
 
 ### 1. Facebook Campaigns
 
+- For campaigns targeting Facebook users, we recommend personalized ads or discounts to increase CLV. As `Cluster 0` is mainly from the rest of the world, 365 Data Science Facebook posts should be tailored to maintain high engagement and encourage higher spending overall.
+
+- Given that this segment has fewer students from English-speaking countries or Western Europe, it would be worth exploring how focusing more on similar audiences on Facebook could impact the results, especially since students from the rest of the world tend to have the lowest CLV.
+
+
+### 2. YouTube Campaigns
+
+- To leverage 365 Data Science's popularity on YouTube, we recommend collaborating with influencers (experts in AI and data science) to create high-quality, in-demand video content that resonates with students from various regions. These influencers can also promote courses they create on 365 Data Science to attract new customers and boost engagement and CLV.
+
+- Since `Cluster 1` is from mixed regions, it may be more effective to focus more efforts on targeting YouTube audiences from English-speaking countries or Western Europe, where students typically have a higher CLV.
+
+
+### 3. Google Campaigns
+
+- We can design Google-based campaigns targeting students from English-speaking countries and Western Europe, with region-specific ads that align with their preferences and interests.
+
+- Additionally, offering personalized discounts or exclusive access to tailored content will likely boost engagement and CLV by catering to their regional needs.
+
+
+### 4. LinkedIn Content Strategy
+
