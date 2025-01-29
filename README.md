@@ -138,43 +138,29 @@ After identifying the customer segments, we can now discuss the results with the
 
 ### 1. Facebook Campaigns
 
-- For campaigns targeting Facebook users, we recommend personalized ads or discounts to increase CLV. As `Cluster 0` is mainly from the rest of the world, 365 Data Science Facebook posts should be tailored to maintain high engagement and encourage higher spending overall.
-
-- Given that this segment has fewer students from English-speaking countries or Western Europe, it would be worth exploring how focusing more on similar audiences on Facebook could impact the results, especially since students from the rest of the world tend to have the lowest CLV.
+We recommend targeting Facebook users with personalized ads or discounts to boost CLV. Since 365 students from Facebook are mainly from the rest of the world, it could be valuable to explore how focusing more on English-speaking countries and Western Europe might impact results, especially since students from the rest of the world have lower CLV.
 
 
 ### 2. YouTube Influencers Strategy
 
-- To leverage 365 Data Science's popularity on YouTube, we recommend collaborating with influencers (experts in AI and data science) to create high-quality, in-demand video content that resonates with people from various regions. These influencers can also promote courses they create for 365 Data Science to attract new customers and boost spending.
-
-- Since `Cluster 1` is from mixed regions, it may be more effective to focus efforts on targeting YouTube audiences from English-speaking countries or Western Europe, where students typically have a higher CLV.
+To leverage 365 Data Science's popularity on YouTube, we recommend collaborating with influencers (experts in AI and data science) to create high-quality, in-demand video content, particularly targeting audiences from English-speaking countries or Western Europe. These influencers can also promote courses they create for 365 Data Science to attract new customers and boost spending.
 
 
 ### 3. Google Campaigns
 
-- We can design Google-based campaigns targeting people from English-speaking countries and Western Europe, with region-specific ads that align with their preferences and interests.
-
-- Additionally, offering personalized discounts or exclusive access to tailored content will likely boost engagement and CLV by catering to their regional needs.
+We recommend targeting more Google searchers from English-speaking countries and Western Europe with region-specific ads that align with their preferences, while offering personalized discounts to boost CLV. Additionally, optimizing the 365 Data Science blog and free resources for SEO can attract more organic students.
 
 
 ### 4. LinkedIn Content Strategy
 
-- For LinkedIn users, especially from English-speaking countries, we can tailor content focusing on professional development and educational growth for both career switchers and students. Making special offers and addressing major pain points can attract new customers and boost spending.
-
-- It's important to note that most 365 Data Science students from LinkedIn are not from Western Europe. This presents an opportunity to explore how targeting Western Europeans could impact engagement and CLV.
+We emphasize creating LinkedIn content focused on professional development, educational growth, and addressing pain points for career switchers and students, especially from English-speaking countries and Western Europe. Positioning yourself as having the right solutions and timing special offers can attract new customers and boost spending.
 
 
 ### 5. Referral Program Enhancement
 
-- We recommend enhancing the referral program by offering discounts or bonuses to both referrers and new students. Highlighting successful referral stories can motivate others to participate, creating a viral effect and boosting overall engagement and spending.
-
-- Interestingly, students referred by friends from the rest of the world have the lowest CLV and below-average minutes watched. Therefore, focusing more on English-speaking countries and Western Europe, where referral success and CLV are higher, would be more effective.
+We recommend enhancing the referral program, with a focus on English-speaking countries and Western Europe, by offering discounts or bonuses to both referrers and new students. Highlighting successful referral stories can motivate others to participate, creating a viral effect and boosting overall spending.
 
 
 ### 6. Alternative Channels Strategy
 
-- We can target audiences from alternative channels with professional development and educational growth content, addressing common pain points, and identifying the posts that generate the most engagement.
-
-- Once we’ve pinpointed effective posts, we can create personalized offers and discounts to attract new customers, tapping into new opportunities and engaging students on less common platforms.
-
-- Since students from the rest of the world have lower CLV, shifting focus to higher-value segments and investing less in regions with lower ROI would be more effective.
+If looking to tap into new opportunities and engage students on less common acquisition channels, it's essential to first understand these channels and identify which offer the highest potential ROI. Since students from the rest of the world have lower CLV, focusing on higher-value segments and investing less in regions with lower ROI would be more effective.
