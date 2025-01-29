@@ -133,7 +133,7 @@ The number of minutes watched ranges from `1,165.42` to `2,767.64` (median is `1
 
 ## VII. Marketing Strategy Recommendations
 
-After identifying the customer segments, we can now discuss the results with the marketing team to implement targeted strategies. It’s noteworthy that 365 Data Science has equal spending budgets across the three region groups.
+After identifying the customer segments, we can now discuss the results with the marketing team to implement data-driven strategies. It’s noteworthy that 365 Data Science has equal spending budgets across the three region groups.
 
 
 ### 1. Facebook Campaigns
