@@ -15,7 +15,7 @@
 - [VII. Marketing Strategy Recommendations](#VII.-Marketing-Strategy-Recommendations)
   - [1. Facebook Campaigns](#1.-Facebook-Campaigns)
   - [2. YouTube Influencers Strategy](#2.-YouTube-Influencers-Strategy)
-  - [3. Google Campaigns](#3.-Google-Campaigns)
+  - [3. Google Campaigns & SEO](#3.-Google-Campaigns-&-SEO)
   - [4. LinkedIn Content Strategy](#4.-LinkedIn-Content-Strategy)
   - [5. Referral Program Enhancement](#5.-Referral-Program-Enhancement)
   - [6. Alternative Channels Strategy](#6.-Alternative-Channels-Strategy)
@@ -146,7 +146,7 @@ We recommend targeting Facebook users with personalized ads or discounts to boos
 To leverage 365 Data Science's popularity on YouTube, we recommend collaborating with influencers (experts in AI and data science) to create high-quality, in-demand video content, particularly targeting audiences from English-speaking countries or Western Europe. These influencers can also promote courses they create for 365 Data Science to attract new customers and boost spending.
 
 
-### 3. Google Campaigns
+### 3. Google Campaigns & SEO
 
 We recommend targeting more Google searchers from English-speaking countries and Western Europe with region-specific ads that align with their preferences, while offering personalized discounts to boost CLV. Additionally, optimizing the 365 Data Science blog and free resources for SEO can attract more organic students.
 
