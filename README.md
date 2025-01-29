@@ -143,7 +143,7 @@ We recommend targeting Facebook users with personalized ads or discounts to boos
 
 ### 2. YouTube Influencers Strategy
 
-To leverage 365 Data Science's popularity on YouTube, we recommend collaborating with influencers (experts in AI and data science) to create high-quality, in-demand video content, particularly targeting audiences from English-speaking countries or Western Europe. These influencers can also promote courses they create for 365 Data Science to attract new customers and boost spending.
+To leverage 365 Data Science's popularity on YouTube, we recommend collaborating with influencers (experts in AI and data science) to create high-quality, in-demand video content, particularly targeting audiences from English-speaking countries and Western Europe. These influencers can also promote courses they create for 365 Data Science to attract new customers and boost spending.
 
 
 ### 3. Google Campaigns & SEO
