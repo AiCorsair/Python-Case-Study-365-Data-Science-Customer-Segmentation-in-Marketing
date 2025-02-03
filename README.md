@@ -163,4 +163,4 @@ We recommend enhancing the referral program, with a focus on English-speaking co
 
 ### 6. Alternative Channels Strategy
 
-If looking to tap into new opportunities and engage students on less common acquisition channels, it's essential to first understand these channels and identify which offer the highest potential ROI. Since students from the rest of the world have lower CLV, focusing on higher-value segments and investing less in regions with lower ROI would be more effective.
+If looking to tap into new opportunities and engage students on less common acquisition channels, it's essential to first understand these channels and identify which offer the highest potential ROI. Since students from outside English-speaking countries and Western Europe have lower CLV, focusing on higher-value segments and investing less in regions with lower ROI would be more effective.
