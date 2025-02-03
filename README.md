@@ -138,7 +138,7 @@ After identifying the customer segments, we can now discuss the results with the
 
 ### 1. Facebook Campaigns
 
-We recommend targeting Facebook users with personalized ads or discounts to boost CLV. Since 365 students from Facebook are mainly from the rest of the world, it could be valuable to explore how focusing more on English-speaking countries and Western Europe might impact results, especially since students from the rest of the world have lower CLV.
+We recommend targeting Facebook users with personalized ads or discounts to boost CLV. Since 365 students from Facebook are primarily from outside English-speaking countries and Western Europe, it could be valuable to explore how focusing more on these regions might impact results, especially given that students from the rest of the world have lower CLV.
 
 
 ### 2. YouTube Influencers Strategy
