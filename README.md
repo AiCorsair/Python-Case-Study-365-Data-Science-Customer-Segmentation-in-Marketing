@@ -27,7 +27,7 @@ In this project, we analyzed real-world customer data from an onboarding survey 
 
 The project included data cleaning, exploration, feature engineering, clustering algorithms implementation, and results interpretation. We applied two widely used clustering techniques: **K-Means** and **Hierarchical Clustering**.
 
-The analysis segmented a sample of over `3,800` members (representing the entire population) to identify trends like acquisition channels and geographic influences. These insights will assist the marketing team in prioritizing resources during campaigns.
+The analysis segmented a sample of over `3,800` members (representing the entire population) to identify patterns in acquisition channels and geographic influences. These insights will assist the marketing team in prioritizing resources during campaigns.
 
 The `Customer_Data.csv` file includes:
 
